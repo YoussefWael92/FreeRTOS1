@@ -1,0 +1,7 @@
+../Core/Src/FreeRTOS.c:67:6:MX_FREERTOS_Init	48	static,ignoring_inline_asm
+../Core/Src/FreeRTOS.c:133:13:CalcSwitch1	40	static
+../Core/Src/FreeRTOS.c:178:13:IncreaseVar	32	static
+../Core/Src/FreeRTOS.c:217:13:DecreaseVar	32	static
+../Core/Src/FreeRTOS.c:256:13:UARTTask	96	static
+../Core/Src/FreeRTOS.c:315:6:HAL_GPIO_EXTI_Callback	24	static,ignoring_inline_asm
+../Core/Src/FreeRTOS.c:351:6:vApplicationStackOverflowHook	24	static,ignoring_inline_asm
